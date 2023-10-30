@@ -1,0 +1,3 @@
+[submodule "eks-workshop-v2"]
+	path = eks-workshop-v2
+	url = git@github.com:taylormonacelli/eks-workshop-v2.git
